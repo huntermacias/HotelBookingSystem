@@ -131,4 +131,4 @@ public class Reservations {
 
 ### Output Example
 
-[![Output](https://github.com/huntermacias/HotelBookingSystem/assets/47125492/55a1c5dd-7b6a-4cb1-b331-fbc40378ee31)
+![Output](https://github.com/huntermacias/HotelBookingSystem/assets/47125492/55a1c5dd-7b6a-4cb1-b331-fbc40378ee31)
