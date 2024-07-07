@@ -131,29 +131,4 @@ public class Reservations {
 
 ### Output Example
 
-```bash
-====================================
-         Search Results For: Seattle         
-====================================
- - The Costco Inn
-
-====================================
-          Reservation Status         
-====================================
- - Reservation 1 (Craig Jelinek): ✅ Successful
- - Reservation 2 (Paris Hilton): ✅ Successful
-
-====================================
-         Craig Jelinek's Bookings         
-====================================
- - Hotel: The Costco Inn, Room: SINGLE
-
-====================================
-         Paris Hilton's Bookings         
-====================================
- - Hotel: The Hilton, Room: SUITE
-
-====================================
-         End of Reservations         
-====================================
-```
+[![Output](https://github.com/huntermacias/HotelBookingSystem/assets/47125492/55a1c5dd-7b6a-4cb1-b331-fbc40378ee31)
